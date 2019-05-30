@@ -1,2 +1,2 @@
-# mem-game
+# memory-game
 //memory game
